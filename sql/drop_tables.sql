@@ -1,6 +1,6 @@
 /* Relationship tables. */
 DROP TABLE FriendTag;
-DROP TABLE FriendShip;
+DROP TABLE Friendship;
 
 /* Project tables. */
 DROP TABLE ProjectPartner;
